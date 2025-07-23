@@ -125,18 +125,16 @@
 ![XSLT](https://img.shields.io/badge/XSLT-E800A2?style=for-the-badge&logo=xml&logoColor=white)
 
 
-<!-- Hangman -->
-<p><span><strong><a href="https://github.com/mjsandagi/hangman" target="_blank" rel="noreferrer">Hangman</a></strong></span>: A Java-based OOP implementation of Hangman with configurable difficulty levels.</p>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-
 <!-- Wordle Solver -->
 
 <p><span><strong><a href="https://github.com/mjsandagi/wordle-solver" target="_blank" rel="noreferrer">Wordle Solver</a></strong></span>: Returns the solution for a specific day's Wordle from The New York Times Wordle API.</p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+<!-- Hangman -->
+<p><span><strong><a href="https://github.com/mjsandagi/hangman" target="_blank" rel="noreferrer">Hangman</a></strong></span>: A Java-based OOP implementation of Hangman with configurable difficulty levels.</p>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
 <h2 align="left">Connect</h2>
