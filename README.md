@@ -68,6 +68,30 @@
                     height="40"
                 />
             </a>
+        <a href="https://golang.org" target="_blank" rel="noreferrer">
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+        alt="go"
+        width="40"
+        height="40"
+    />
+</a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"
+        alt="kubernetes"
+        width="40"
+        height="40"
+    />
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+        alt="docker"
+        width="40"
+        height="40"
+    />
+</a>
         </p>
 
 <h2 align="left">Projects</h2>
@@ -90,6 +114,13 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Jikan](https://img.shields.io/badge/Jikan-1847b1?style=for-the-badge&logo=jikan&logoColor=white)
+
+<!-- ECOMMERCE MICROSERVICE -->
+<p><span><strong><a href="https://github.com/mjsandagi/ecommerce-microservice" target="_blank" rel="noreferrer">eCommerce Microservice</a></strong></span>: A lightweight API built with Go, containerised with Docker, and orchestrated via Kubernetes.</p>
+
+![Go](https://img.shields.io/badge/Go-D663FF?style=for-the-badge&logo=go&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-00A687?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <!-- Sorting Algorithm Visualiser -->
 <p><span><strong><a href="https://github.com/mjsandagi/sorting-algorithm-visualiser" target="_blank" rel="noreferrer">Sorting Algorithm Visualiser</a></strong></span>: Includes all standard algorithms, such as the bubble, insertion, merge and quick sort.</p>
