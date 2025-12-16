@@ -123,7 +123,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <!-- MAZE SOLVER -->
-<p><span><strong><a href="https://github.com/YOUR_USERNAME/maze-solver" target="_blank" rel="noreferrer">Maze Solver</a></strong> </span>: A maze navigation engine implementing a BFS shortest-path search and autonomous exploration strategies.</p>
+<p><span><strong><a href="https://github.com/mjsandagi/maze-solver" target="_blank" rel="noreferrer">Maze Solver</a></strong> </span>: A maze navigation engine implementing a BFS shortest-path search and autonomous exploration strategies.</p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
