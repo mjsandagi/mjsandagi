@@ -122,6 +122,12 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-00A687?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+<!-- MAZE SOLVER -->
+<p><span><strong><a href="https://github.com/YOUR_USERNAME/maze-solver" target="_blank" rel="noreferrer">Maze Solver</a></strong> </span>: A maze navigation engine implementing a BFS shortest-path search and autonomous exploration strategies.</p>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
 <!-- Sorting Algorithm Visualiser -->
 <p><span><strong><a href="https://github.com/mjsandagi/sorting-algorithm-visualiser" target="_blank" rel="noreferrer">Sorting Algorithm Visualiser</a></strong></span>: Includes all standard algorithms, such as the bubble, insertion, merge and quick sort.</p>
 
