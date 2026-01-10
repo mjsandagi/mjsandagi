@@ -152,9 +152,7 @@
 <p><span><strong><a href="https://github.com/mjsandagi/photovoltaics-yield-simulator" target="_blank" rel="noreferrer">Photovoltaics Energy Yield Simulator</a></strong></span>: Estimates temperature-corrected energy production of a silicon solar cell PV system.</p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-2D5E5E?style=for-the-badge&logo=pygame&logoColor=white)
-
-
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 <!-- Scholar's Mate -->
 
