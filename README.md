@@ -123,7 +123,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <!-- Riichi Mahjong -->
-<p><span><strong><a href="https://github.com/mjsandagi/riichi-mahjong" target="_blank" rel="noreferrer">Riichi Mahjong</a></strong> </span>: A Riichi variation Mahjong implementation with full ruleset, a playable CLI, and AI opponents.</p>
+<p><span><strong><a href="https://github.com/mjsandagi/riichi-mahjong" target="_blank" rel="noreferrer">Riichi Mahjong</a></strong> </span>: A Riichi variation Mahjong implementation with a full ruleset, a playable web UI, and AI opponents.</p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
