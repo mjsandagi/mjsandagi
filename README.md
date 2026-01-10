@@ -122,11 +122,6 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-00A687?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<!-- MAZE SOLVER -->
-<p><span><strong><a href="https://github.com/mjsandagi/maze-solver" target="_blank" rel="noreferrer">Maze Solver</a></strong> </span>: A maze navigation engine implementing a BFS shortest-path search and autonomous exploration strategies.</p>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 <!-- Riichi Mahjong -->
 <p><span><strong><a href="https://github.com/mjsandagi/riichi-mahjong" target="_blank" rel="noreferrer">Riichi Mahjong</a></strong> </span>: A Riichi variation Mahjong implementation with full ruleset, a playable CLI, and AI opponents.</p>
 
@@ -135,18 +130,31 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+<!-- MAZE SOLVER -->
+<p><span><strong><a href="https://github.com/mjsandagi/maze-solver" target="_blank" rel="noreferrer">Maze Solver</a></strong> </span>: A maze navigation engine implementing a BFS shortest-path search and autonomous exploration strategies.</p>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 <!-- Sorting Algorithm Visualiser -->
 <p><span><strong><a href="https://github.com/mjsandagi/sorting-algorithm-visualiser" target="_blank" rel="noreferrer">Sorting Algorithm Visualiser</a></strong></span>: Includes all standard algorithms, such as the bubble, insertion, merge and quick sort.</p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-2D5E5E?style=for-the-badge&logo=pygame&logoColor=white)
 
-
 <!-- Noughts & Crosses AI -->
 <p><span><strong><a href="https://github.com/mjsandagi/noughtsandcrosses-ai" target="_blank" rel="noreferrer">Noughts & Crosses AI</a></strong></span>: Featuring a fully-functional "unbeatable" AI, utilising the Minimax algorithm.</p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-2D5E5E?style=for-the-badge&logo=pygame&logoColor=white)
+
+
+<!-- Photovoltaics Energy Yield Simulator -->
+<p><span><strong><a href="https://github.com/mjsandagi/photovoltaics-yield-simulator" target="_blank" rel="noreferrer">Photovoltaics Energy Yield Simulator</a></strong></span>: Estimates temperature-corrected energy production of a silicon solar cell PV system.</p>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-2D5E5E?style=for-the-badge&logo=pygame&logoColor=white)
+
+
 
 <!-- Scholar's Mate -->
 
