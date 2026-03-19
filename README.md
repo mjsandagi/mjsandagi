@@ -106,6 +106,19 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+<!-- Cognitive Contract -->
+<p><span><strong><a href="https://github.com/mjsandagi/cognitive-contract" target="_blank" rel="noreferrer">Cognitive Contract</a></strong> </span>: A study app that stakes Solana and confirms verbal understanding of content before you reclaim funds.</p>
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%231c2f59.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-f55036?style=for-the-badge&logo=neuromod&logoColor=white)
+![Meta Llama 3](https://img.shields.io/badge/Meta_Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+
 <!-- Coqui TTS -->
 <p><span><strong><a href="https://github.com/mjsandagi/coqui-tts-voice-cloning" target="_blank" rel="noreferrer">Coqui TTS Voice Cloning</a></strong> </span>: Voice cloning using Coqui Text-To-Speech (XTTS v2) with PyTorch and CUDA acceleration.</p>
 
