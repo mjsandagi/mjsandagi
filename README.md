@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jaffer!</h1>
 <h3 align="center">A developer and mathematician who enjoys critical thinking and problem solving.</h3>
 
-<h2 align="left">Languages and Tools</h2>
+<!-- <h2 align="left">Languages and Tools</h2>
     <p align="left">
     <a
                 href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
@@ -92,7 +92,7 @@
         height="40"
     />
 </a>
-        </p>
+        </p> -->
 
 <h2 align="left">Projects</h2>
 
