@@ -119,7 +119,7 @@
 ![Meta Llama 3](https://img.shields.io/badge/Meta_Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
 <!-- Vulture -->
-<p><span><strong><a href="https://github.com/mjsandagi/kensaku" target="_blank" rel="noreferrer">Vulture</a></strong></span>: A CLI dependency vulnerability scanner using OSV.dev, with CVSS scoring for Python, Node, and Go.</p>
+<p><span><strong><a href="https://github.com/mjsandagi/vulture" target="_blank" rel="noreferrer">Vulture</a></strong></span>: A CLI dependency vulnerability scanner using OSV.dev, with CVSS scoring for Python, Node, and Go.</p>
 
 ![Go](https://img.shields.io/badge/Go-D663FF?style=for-the-badge&logo=go&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
