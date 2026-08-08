@@ -118,6 +118,15 @@
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 ![Meta Llama 3](https://img.shields.io/badge/Meta_Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
+<!-- Vulture -->
+<p><span><strong><a href="https://github.com/mjsandagi/kensaku" target="_blank" rel="noreferrer">Vulture</a></strong></span>: A CLI dependency vulnerability scanner using OSV.dev, with CVSS scoring for Python, Node, and Go.</p>
+
+![Go](https://img.shields.io/badge/Go-D663FF?style=for-the-badge&logo=go&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
 <!-- Coqui TTS -->
 <p><span><strong><a href="https://github.com/mjsandagi/coqui-tts-voice-cloning" target="_blank" rel="noreferrer">Coqui TTS Voice Cloning</a></strong> </span>: Voice cloning using Coqui Text-To-Speech (XTTS v2) with PyTorch and CUDA acceleration.</p>
 
@@ -126,7 +135,6 @@
 ![SciPy](https://img.shields.io/badge/SciPy-7DA5F5?style=for-the-badge&logo=scipy&logoColor=white)
 
 <!-- Kensaku -->
-
 <p><span><strong><a href="https://github.com/mjsandagi/kensaku" target="_blank" rel="noreferrer">Kensaku</a></strong></span>: A media search engine that uses the Jikan API, delivering visual results with informative descriptions.</p>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
